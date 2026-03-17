@@ -1,5 +1,7 @@
 # Session Export
 
+[![Governance Score](https://walseth.ai/api/badge/douglasrw/session-export)](https://walseth.ai/scan?repo=douglasrw/session-export)
+
 Export Claude Code session history to readable, shareable, or training-ready formats.
 
 ## Installation
